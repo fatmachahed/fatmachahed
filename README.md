@@ -15,33 +15,13 @@ I have hands-on experience with Python, AI libraries, and data-related tools, an
 
 I have a solid technical foundation in software development, data science, and artificial intelligence. My main areas of expertise include:
 
-### 🧑‍💻 Programming Languages
-- Python, Java, JavaScript, PHP, C, SQL, NoSQL
-
-### 🌐 Web Development
-- Django, Flask, Nest.js, React.js, HTML5, CSS3, DevExtreme
-
-### 🤖 Artificial Intelligence & Data Science
-- Machine Learning, Deep Learning, NLP, LLMs, Graph-based AI
-
-### 🧠 Generative AI
-- LLMs, LangChain, LangGraph, RAG architectures  
-- Prompt Engineering, Fine-tuning, AI Agents
-
-### 📊 Data & AI Libraries
-- Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib
-
-### ☁️ Big Data & Cloud
-- Spark, Hadoop, Scala, Big Data ML, Cloud AI
-
-### 🗄️ Databases
-- PostgreSQL, MySQL, MongoDB, Neo4j, Redis
-
-### 🚀 Deployment & MLOps
-- FastAPI, REST APIs, Docker, Kubernetes, Vertex AI
-
-### 📈 Data Visualization
-- Power BI, Tableau, IBM Cognos, D3.js, R, DAX
-
-### 🔧 Dev & Collaboration Tools
-- Git, GitHub, Jupyter, Google Colab, Jira, ClickUp, Slack
+## 🧑‍💻 Python, Java, JavaScript, PHP, C, SQL, NoSQL
+## 🌐 Django, Flask, Nest.js, React.js, HTML5, CSS3, DevExtreme
+## 🤖 Machine Learning, Deep Learning, NLP, LLMs, Graph-based AI
+## 🧠 LLMs, LangChain, LangGraph, RAG architectures, Prompt Engineering, Fine-tuning, AI Agents
+## 📊 Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib
+## ☁️ Spark, Hadoop, Scala, Big Data ML, Cloud AI
+## 🗄️ PostgreSQL, MySQL, MongoDB, Neo4j, Redis
+## 🚀 FastAPI, REST APIs, Docker, Kubernetes, Vertex AI
+## 📈 Power BI, Tableau, IBM Cognos, D3.js, R, DAX
+## 🔧 Git, GitHub, Jupyter, Google Colab, Jira, ClickUp, Slack
