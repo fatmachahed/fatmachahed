@@ -12,48 +12,96 @@ I have hands-on experience with Python, AI libraries, and data-related tools, an
 🎯 **Objective:** Apply my knowledge in real-world projects and grow as an AI and data professional.
 
 ---
-
 # 🔧 Technical Overview
-
 I have a solid technical foundation in software development, data science, and artificial intelligence. My main areas of expertise include:
 
-<style>
- <style>
-  .tech-icon {
-    background-color: white; /* Gris moyen visible dans les deux modes */
-    padding: 12px;
-    border-radius: 20px;
-    border: 1px solid #cccccc;
-    margin: 5px;
-  }
-</style>
-</style>
+<table>
+<tr>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br>Python
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br>Java
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br>JavaScript
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" /><br>PHP
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" /><br>C
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50" alt="LaTeX" /><br>LaTeX
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br>MySQL
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" /><br>SQLite
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" /><br>Django
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /><br>Flask
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS" /><br>NestJS
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /><br>React
+</td>
+ <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" /><br>Canva
+</td>
+ </tr>
+<tr>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br>HTML5
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br>CSS3
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /><br>PostgreSQL
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /><br>MongoDB
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" /><br>Redis
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50" height="50" alt="Neo4j" /><br>Neo4j
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka" /><br>Kafka
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Spark" /><br>Spark
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" /><br>Sklearn
+</td>
 
-<p>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"/>
-</p>
-<p>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
-  <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
-</p>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br>Docker
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br>Git
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br>GitHub
+</td>
+<td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /><br>Jupyter
+</td>
+</tr>
+</table>
 
-
+<!--
 Details:
 
 - 🧑‍💻 **Programming Languages:** Python, Java, JavaScript, PHP, C, SQL, NoSQL  
@@ -66,3 +114,4 @@ Details:
 - 🚀 **Deployment & MLOps:** FastAPI, REST APIs, Docker, Kubernetes, Vertex AI  
 - 📈 **Data Visualization:** Power BI, Tableau, IBM Cognos, D3.js, R, DAX  
 - 🔧 **Dev & Collaboration Tools:** Git, GitHub, Jupyter, Google Colab, Jira, ClickUp, Slack
+-->
