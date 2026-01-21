@@ -13,7 +13,9 @@ I have hands-on experience with Python, AI libraries, and data-related tools, an
 
 ---
 # 🔧 Technical Overview
-I have a solid technical foundation in software development, data science, and artificial intelligence. My main areas of expertise include:
+I have a solid technical foundation in software development, data science, and artificial intelligence. 
+
+My main areas of expertise include:
 
 <table>
 <tr>
@@ -44,6 +46,8 @@ I have a solid technical foundation in software development, data science, and a
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" /><br>Django
 </td>
+  </tr>
+<tr>
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /><br>Flask
 </td>
@@ -56,8 +60,6 @@ I have a solid technical foundation in software development, data science, and a
  <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" /><br>Canva
 </td>
- </tr>
-<tr>
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br>HTML5
 </td>
@@ -73,6 +75,8 @@ I have a solid technical foundation in software development, data science, and a
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" /><br>Redis
 </td>
+  </tr>
+<tr>
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50" height="50" alt="Neo4j" /><br>Neo4j
 </td>
@@ -85,7 +89,6 @@ I have a solid technical foundation in software development, data science, and a
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" /><br>Sklearn
 </td>
-
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br>Docker
 </td>
