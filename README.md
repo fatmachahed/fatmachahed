@@ -101,6 +101,11 @@ My main areas of expertise include:
 <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" /><br>Jupyter
 </td>
+  <td align="center" width="90" style="background: #f0f0f0; border-radius: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"
+       width="50" height="50" alt="Power BI" />
+  <br>Power BI
+</td>
 </tr>
 </table>
 
